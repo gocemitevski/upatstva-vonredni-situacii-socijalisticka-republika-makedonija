@@ -89,7 +89,7 @@
 
 Пожелно е, секој член на семејството да ја познава својата крвна група, бројот на заштитната маска, на облеката и чевлите, потем, адресите на другите членови на семејството и блиските соседи и роднини, броевите на најважните телефони и др.
 
-![Поделба на крвните групи](images/podelba-krvni-grupi-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+![Поделба на крвните групи](images/podelba-krvni-grupi-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Поделба на крвните групи
 
 Податоците за крвната група внесете ги во здравствените книшки на членовите од вашето семејство, а картонот што ќе го добиете од Заводот за трансфузија носете го со себе. Познавањето на крвната група е од големо значење во вонредни услови. Крвната група ја утврдува Заводот на ваше барање.
@@ -154,7 +154,7 @@
 
 > **Запознајте ги членовите на вашето семејство со знаците за узбуна и постапката.**
 
-![Одење во скривница](images/skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+![Одење во скривница](images/skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Одење во скривница
 
 #### НА РАБОТНОТО МЕСТО:
@@ -237,10 +237,10 @@
 
 Ако локацијата на овие скривници не ви одговара поради нивната оддалеченост, консултирајте го надлежниот орган за комунални работи, дали можете за вашето семејство да изградите скривница во куќата или во нејзината близина и како?
 
-![Скица на рововска скривница](images/skica-rovovska-skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+![Скица на рововска скривница](images/skica-rovovska-skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Скица на рововска скривница
 
-![Покриени рововски скривници](images/pokrieni-skrivnici-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+![Покриени рововски скривници](images/pokrieni-skrivnici-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Покриени рововски скривници
 
 За засолнување можат да се користат и: рударски и други јами, отворени и покриени рововски скривници, поткопи, земјанки и др.
@@ -255,7 +255,7 @@
 
 Помеѓу друго, екипите се должни откако ќе се наполни скривницата, сите новопристигнати да ги информира каде се наоѓа другата најблиска скривница, како и да се грижат за светлосните, вентилационите и другите уреди и средства кои се нужни за обезбедување приближно погодни услови за престојување во скривницата.
 
-![Покриена и откриена рововска скривница](images/pokriena-otkriena-skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+![Покриена и откриена рововска скривница](images/pokriena-otkriena-skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Покриена и откриена рововска скривница
 
 По објавениот престанок на опасноста, раководителот на екипата ги известува граѓаните за евентуалните опасности на кои тие можат да бидат изложени и мерките на претпазливост што треба да се преземаат по напуштањето на скривницата. Ако реонот на скривницата е контаминиран, не треба да излегувате додека опасноста не се отстрани.
@@ -264,7 +264,7 @@
 
 Должни сте да ги исполнувате наредбите и упатствата на раководителот на скривницата.
 
-![Најнужна опрема за скривница](images/oprema-skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+![Најнужна опрема за скривница](images/oprema-skrivnica-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Најнужна опрема за скривница
 
 ### ЗАТЕМНУВАЊЕ
@@ -281,7 +281,7 @@
 
 Прозорците и другите светлосни отвори исто така треба да ги затемнувате со разни темни материјали: ќебиња, хартија и др. Сите стаклени површини можат да се бојадисуваат со темносина и црна боја.
 
-![Начин на затемнување](images/zatemnuvanje-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+![Начин на затемнување](images/zatemnuvanje-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Начин на затемнување
 
 ##### Затемнување на јавни локали
