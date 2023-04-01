@@ -463,7 +463,11 @@ Eвакуацијата е една од основните мерки за за
 
 Ударниот бран со својата голема разурнувачка сила предизвикува тешки рушења и оштетувања на објектите, масовни убивања, како и повреди на луѓето, што би биле изложени на дејството на тој ударен бран, рушењето на објектите, дробењето и расфрлувањето на разни материјали и сл., а во зависност од оддалеченоста од центарот на експлозијата.
 
-СЛИКА ОВДЕ\
+![Степени на изгоретини](images/izgoretini-1-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+
+![Степени на изгоретини](images/izgoretini-2-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)
+
+![Степени на изгоретини](images/izgoretini-3-upatstva-vonredni-situacii-socijalisticka-republika-makedonija.jpg)\
 Степени на изгоретини
 
 #### ТОПЛОТНО ДЕЈСТВО
